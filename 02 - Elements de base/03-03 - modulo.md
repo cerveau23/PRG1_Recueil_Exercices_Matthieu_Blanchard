@@ -22,6 +22,16 @@ En cas d'erreur, indiquez la raison.\
 | 7 | `n++ % ++i` | |
 
 
+<details>
+<summary>Answer</summary>
+1: 1
+2: 0
+3: Erreur: modulo ne marche pas avec des doubles
+4: 1
+5: -1
+6: 4
+7: 4
+</details>
     
 
 <details>

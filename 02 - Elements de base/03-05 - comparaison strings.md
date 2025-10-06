@@ -25,6 +25,14 @@ Pour rappel, `' ' < '0' < '9' < 'A' < 'Z' < 'a' < 'z'`
 
 
 
+<details>
+<summary>Answer</summary>
+1. True: 1<2
+2. True: r>d
+3. False: '' < '1'
+4. True: l>g
+5. True: P<p
+</details>
     
 
 <details>

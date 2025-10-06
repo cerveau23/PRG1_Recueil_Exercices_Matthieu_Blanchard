@@ -22,6 +22,16 @@ Que vaut la variable m dans chacun des cas ci-dessous ?
 | 7 | `m = x + j / i;`     |     |
 
 
+<details>
+<summary>Answer</summary>
+1: 2
+2: 2.2
+3: 3.
+4: 3.2
+5: 4.2
+6: 7.2
+7: 7.
+</details>
     
 
 <details>

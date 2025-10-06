@@ -19,6 +19,13 @@ cout << "4. " << z << endl;
 ~~~
 
 
+<details>
+<summary>Answer</summary>
+1. E
+2. F
+3. A
+4. AO
+</details>
 
 
     

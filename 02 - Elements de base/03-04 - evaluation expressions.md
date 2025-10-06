@@ -39,6 +39,15 @@ int main() {
 
 
 
+<details>
+<summary>Answer</summary>
+
+- A : i = 3 j = 2 k = 1
+- B : i = 4 j = 2 k = 1
+- C : i = 4 j = 3 k = 1
+- D : i = 4 j = 2 k = 0
+- E : i = 4 j = 3 k = 1
+</details>
 
     
 

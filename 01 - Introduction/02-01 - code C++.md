@@ -13,6 +13,18 @@ int main()                                  // 3
     return EXIT_SUCCESS;                    // 6
 }                                           // 4
 ~~~
+~~~cpp
+#include <iostream>                         // Input output
+#include <cstdlib>
+using namespace std;                        // Standard library of C++ functions, plus using them without having to call their library each time
+
+int main()                                  // Main function, called upon program's start
+{                                           // Oppening of function
+    cout << "Hello world"       << endl;    // Outputs Hello World to the terminal
+    cout << "fin de programme"  << endl;    // Outputs fin de programme to the terminal
+    return EXIT_SUCCESS;                    // Outputs an int since main() is supposed to return one. Will return 0 to signify having finished without error
+}                                           // 4
+~~~
 
 <details>
 <summary>Solution</summary>

@@ -42,6 +42,15 @@ Pour chaque séquence d'instructions suivante, déterminez si elle est correcte 
     ~~~
 
 <details>
+<summary>Answer</summary>
+1.Oui:0
+2.Non:Redéclaration de n utilisant n non innitialisé
+3.Non: k non déclaré
+4.Non: n non innitialisé
+5.Oui: 5 et 49
+6.Non: nb_produit ne peut pas être modifié
+</details>
+<details>
 <summary>Solution</summary>
 
 1. `n = 0`

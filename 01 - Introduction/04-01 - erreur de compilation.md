@@ -14,6 +14,20 @@ end;
 ~~~
 
 <details>
+<summary>Answer</summary>
+
+~~~cpp
+/* programme avec erreurs*/
+#include iostream;
+use spacename std;
+int main()
+{
+   cout << "Hello" << endl;
+   return 0;
+}
+~~~
+</details>
+<details>
 <summary>Solution</summary>
 
 ~~~cpp

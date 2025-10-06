@@ -11,6 +11,14 @@ Ecrire la condition permettant de tester :
 
 
 
+<details>
+<summary>Answer</summary>
+1. !(x || y)
+2. !x || !y
+3. x!=y && (!y || !x) 
+4. x || y
+
+</details>
     
 
 <details>

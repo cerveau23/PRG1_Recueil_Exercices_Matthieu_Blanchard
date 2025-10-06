@@ -45,6 +45,12 @@ s += to_string(1);
 ~~~
 
 <details>
+<summary>Answer</summary>
+1. ABC
+2. ABC
+3. ABC
+</details>
+<details>
 <summary>Solution</summary>
 
 1. ABC

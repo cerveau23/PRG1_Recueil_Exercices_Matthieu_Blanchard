@@ -24,6 +24,19 @@ Pour chacun des cas ci-dessous, indiquez le type de la variable après chaque in
 
 
 
+<details>
+<summary>Answer</summary>
+1. Int
+2. Float
+3. Char
+4. Float
+5. Char
+6. Bool
+7. Float
+8. Int
+9. Float
+10. Int
+</details>
 
 <details>
 <summary>Solution</summary>

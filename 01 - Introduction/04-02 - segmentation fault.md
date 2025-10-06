@@ -15,6 +15,11 @@ int main() {
 ~~~
 
 <details>
+<summary>Answer</summary>
+Did it, failed
+</details>
+
+<details>
 <summary>Solution</summary>
 
 Le programme devrait compiler, mais crasher à l'exécution en affichant un message similaire à 

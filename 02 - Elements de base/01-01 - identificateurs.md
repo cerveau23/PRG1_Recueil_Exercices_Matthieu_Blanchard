@@ -20,6 +20,24 @@ Pour chacun des cas ci-dessous, indiquez s'il s'agit d'un identificateur C++ lé
 | 15 | `_` | | |
 
 
+<details>
+<summary>Answer</summary>
+1:Non:Commence par un chiffre
+2:Oui
+3:Oui
+4:Non:Espace
+5:Oui
+6:Non:Commence par une maj
+7:Non:Commence par _
+8:Idem
+9:Oui
+10:Oui
+11:Non:&
+12:Non:mot-clé
+13:Oui
+14:Non: é
+15:Non
+</details>
 
 <details>
 <summary>Solution</summary>

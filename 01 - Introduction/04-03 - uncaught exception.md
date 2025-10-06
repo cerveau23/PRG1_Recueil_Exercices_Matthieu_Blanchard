@@ -23,6 +23,10 @@ int main() {
 ~~~
 
 <details>
+<summary>Answer</summary>
+i==3
+</details>
+<details>
 <summary>Solution</summary>
 Le programme s'arrête quand i vaut 3
 </details>
